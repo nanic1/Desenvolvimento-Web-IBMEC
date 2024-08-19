@@ -1,4 +1,4 @@
-Desenvolvimento Web | 1º período
+Desenvolvimento Web - 1º período
 
 VScode: https://code.visualstudio.com/Download
 DB Browser SQLite: https://sqlitebrowser.org/
