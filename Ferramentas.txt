@@ -1,0 +1,17 @@
+VScode: https://code.visualstudio.com/Download
+DB Browser SQLite: https://sqlitebrowser.org/
+Python: https://www.python.org/downloads/
+Git Hub: https://github.com/
+
+Python: Uma das linguagens de programação hoje em dia mais utilizada pelo mundo todo,
+        usada geralmente para Analise de dados, automação e aprendizagem na programação.
+
+DB Browser SQLite: Ferramente para uso de banco de dados geralmente para área de programação 
+                   (bem parecida com SQL Microsoft Server)
+
+VScode: Ferramenta para debug e run em linguagem de programação, atualmente oferece suporte para
+        todas as linguagens de programação e todos os frameworks
+
+Git Hub: Site para hospedagem de arquivos relacionados a programação em formato de repositorios.
+         Tambem dá acesso a comunidade onde o usuário pode interagir com outras pessoas, acessar e
+         clonar projetos de outras pessoas.
