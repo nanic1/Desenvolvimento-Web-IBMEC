@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: hotpink;
+    border-bottom: dotted 10px purple;
+    margin-left: 5px;
+}
+
+.second {
+    font-size: 30px;
+    font-style: italic;
+    margin-left: 5px;
+    color: #191111;
+}
+
+.webdev {
+    font-size: 1.5em;
+    color: #999999;
+    font-weight: bold;
+}
+
+.h2 {
+    font-weight: 100;
+}
+
+ul {
+    background-color: #eeeeee;
+    border: solid 5px purple;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.green {
+    color: green;
+}
+
+a {
+    color: #fb6542;
+}
+
+a:hover {
+    color: green;
+    text-decoration: none;
+}
